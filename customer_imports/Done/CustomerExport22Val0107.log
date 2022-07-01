@@ -1,0 +1,13 @@
+Swan Retail Data Import Wizard
+Copyright 2004, Swan Retail Limited
+
+Input File    : \\tsclient\P\Silvia\customer_imports\Done\CustomerExport22Val0107.xlsx
+
+Record : 215
+Error - MarketingConsent - Date Should Be In Format dd/mm/yyyy
+
+Records Read      : 265
+Warnings          : 0
+Error Records     : 1
+
+** End of Report **
